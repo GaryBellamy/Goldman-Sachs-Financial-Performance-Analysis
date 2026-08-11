@@ -50,6 +50,14 @@ The Tableau dashboard summarizes firmwide financial performance, operating effic
 
 ---
 
+## Project Links
+
+- [View Interactive Tableau Dashboard](YOUR_TABLEAU_LINK_HERE)
+- [View Final Stakeholder Report](6_Final_Report/YOUR_REPORT_FILENAME.pdf)
+
+  
+---
+
 ## Analysis Workflow
 
 The project followed an end-to-end data analytics workflow:
