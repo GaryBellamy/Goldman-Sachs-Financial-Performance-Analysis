@@ -52,8 +52,8 @@ The Tableau dashboard summarizes firmwide financial performance, operating effic
 
 ## Project Links
 
-- [View Interactive Tableau Dashboard](YOUR_TABLEAU_LINK_HERE)
-- [View Final Stakeholder Report](6_Final_Report/YOUR_REPORT_FILENAME.pdf)
+- [View Interactive Tableau Dashboard](https://public.tableau.com/views/GoldmanSachs_17863196028140/GoldmanSachsExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [View Final Stakeholder Report](https://docs.google.com/document/d/1jJzs353iCnRvL0S3EsMRzJ8ZeM2Ipyv3RV8ja1QDve4/edit?usp=sharing)
 
   
 ---
